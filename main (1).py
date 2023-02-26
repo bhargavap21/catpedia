@@ -4,7 +4,7 @@ from streamlit_extras.app_logo import add_logo
 
 show_pages(
     [
-        Page("main.py", "Incomegenie Information", "🏠"),
+        Page("main.py", "Information", "🏠"),
         Page("pages/Catquiz.py", "Cat Quiz", "📝"),
         Page("pages/Breeder.py", "Breeder", "❤️"),
         Page("pages/Purchase.py", "Purchase", "🛒"),
